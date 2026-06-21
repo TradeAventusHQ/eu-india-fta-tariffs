@@ -1,0 +1,3 @@
+hs_code,description,sector,direction,base_rate_pct,fta_rate_pct,staging,effective_from,source,source_url,status
+SAMPLE,Illustrative placeholder row - not real data,Machinery Industrial Parts & Automation,EU_to_IN,,,,,Pending official EU/DGFT source,,sample
+SAMPLE,Illustrative placeholder row - not real data,Textiles Apparel & Leather Goods,IN_to_EU,,,,,Pending official EU/DGFT source,,sample
